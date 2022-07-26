@@ -16,7 +16,7 @@ async function main() {
 
   // print the address of the deployed contract
   console.log(
-    "Whitelist Contract Address:",
+    "0xbA4016ae027f833b56fCdE18baF7Ba315B619C63",
     deployedWhitelistContract.address
   );
 }
